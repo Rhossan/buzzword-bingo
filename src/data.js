@@ -585,5 +585,17 @@ export const data = [
       }
     ],
     tags: ["Neo4j"]
+  },
+  {
+    title: "Zeit",
+    description: "Deployment",
+    links: [
+      {
+        text:
+          "Zeit",
+        url: "https://zeit.co/"
+      }
+    ],
+    tags: ["Deployment"]
   }
 ];
